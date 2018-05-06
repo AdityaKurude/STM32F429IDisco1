@@ -1,0 +1,3 @@
+stm32f4xx_hal_dma_ex.c:114:19:HAL_DMAEx_MultiBufferStart	12	static
+stm32f4xx_hal_dma_ex.c:161:19:HAL_DMAEx_MultiBufferStart_IT	12	static
+stm32f4xx_hal_dma_ex.c:227:19:HAL_DMAEx_ChangeMemory	0	static

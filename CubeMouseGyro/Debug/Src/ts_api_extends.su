@@ -1,0 +1,12 @@
+ts_api_extends.c:48:6:BSP_TS_Init_extends	8	static
+ts_api_extends.c:377:9:TS_getFIFO_size	0	static
+ts_api_extends.c:381:9:TS_readFIFO	8	static
+ts_api_extends.c:388:6:TS_flushFIFO	8	static
+ts_api_extends.c:398:22:TS_getCurrMouseState	0	static
+ts_api_extends.c:402:6:TS_setCurrMouseStateNoNotify	0	static
+ts_api_extends.c:405:6:TS_setCurrMouseState	24	static
+ts_api_extends.c:420:9:TS_registerNotifyFunc	0	static
+ts_api_extends.c:434:6:TS_convertXY	20	static
+ts_api_extends.c:204:22:TS_match_input	40	static
+ts_api_extends.c:326:9:TS_isHoldDownButton	32	static
+ts_api_extends.c:84:6:TS_checkEvent	32	static

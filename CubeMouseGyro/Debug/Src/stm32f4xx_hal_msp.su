@@ -1,0 +1,2 @@
+stm32f4xx_hal_msp.c:68:6:HAL_LTDC_MspInit	40	static
+stm32f4xx_hal_msp.c:151:6:HAL_LTDC_MspDeInit	0	static

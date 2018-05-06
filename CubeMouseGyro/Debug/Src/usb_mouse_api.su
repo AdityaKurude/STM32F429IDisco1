@@ -1,0 +1,3 @@
+usb_mouse_api.c:12:6:usb_handleMouseNotify	0	static
+usb_mouse_api.c:43:6:GetGyroData	8	static
+usb_mouse_api.c:74:6:GetPointerData	0	static

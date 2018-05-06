@@ -1,0 +1,15 @@
+usbd_conf_template.c:43:20:USBD_LL_Init	0	static
+usbd_conf_template.c:53:20:USBD_LL_DeInit	0	static
+usbd_conf_template.c:63:20:USBD_LL_Start	0	static
+usbd_conf_template.c:73:20:USBD_LL_Stop	0	static
+usbd_conf_template.c:86:20:USBD_LL_OpenEP	0	static
+usbd_conf_template.c:100:20:USBD_LL_CloseEP	0	static
+usbd_conf_template.c:111:20:USBD_LL_FlushEP	0	static
+usbd_conf_template.c:122:20:USBD_LL_StallEP	0	static
+usbd_conf_template.c:133:20:USBD_LL_ClearStallEP	0	static
+usbd_conf_template.c:144:9:USBD_LL_IsStallEP	0	static
+usbd_conf_template.c:155:20:USBD_LL_SetUSBAddress	0	static
+usbd_conf_template.c:168:20:USBD_LL_Transmit	0	static
+usbd_conf_template.c:184:20:USBD_LL_PrepareReceive	0	static
+usbd_conf_template.c:198:10:USBD_LL_GetRxDataSize	0	static
+usbd_conf_template.c:208:6:USBD_LL_Delay	0	static

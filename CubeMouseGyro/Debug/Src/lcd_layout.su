@@ -1,0 +1,8 @@
+lcd_layout.c:83:6:lcd_handleMouseNotify	0	static
+lcd_layout.c:136:6:Xmirror_points	12	static
+lcd_layout.c:149:6:lcd_drawSliderRect	24	static
+lcd_layout.c:144:6:lcd_drawSlider	8	static
+lcd_layout.c:169:6:lcd_drawRightButton	24	static
+lcd_layout.c:183:6:lcd_drawLeftButton	24	static
+lcd_layout.c:25:6:lcd_drawAction	8	static
+lcd_layout.c:97:6:lcd_prepLayers	16	static
