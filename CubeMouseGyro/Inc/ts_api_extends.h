@@ -22,12 +22,12 @@
 
 /**
 	Values of possible mouse action from touchpanel
-*/
+ */
 typedef enum 
 {
 	TS_MOUSE_NONE  = 0x00,
-  TS_MOUSE_LEFT  = 0x01,
-  TS_MOUSE_RIGHT = 0x02,
+	TS_MOUSE_LEFT  = 0x01,
+	TS_MOUSE_RIGHT = 0x02,
 	TS_MOUSE_SLIDER_UP = 0x03,
 	TS_MOUSE_SLIDER_DOWN = 0x04,
 

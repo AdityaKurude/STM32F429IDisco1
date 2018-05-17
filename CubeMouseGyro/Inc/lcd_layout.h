@@ -22,28 +22,28 @@
 
 
 typedef enum lcd_draw_action {
-	
+
 	LCD_ACT_DRAW_NOTHING = 0ul, 
 	LCD_ACT_DRAW_LEFT = 1ul,
 	LCD_ACT_DRAW_RIGHT = 2ul,
 	LCD_ACT_DRAW_SLIDER_UP = 3ul,
 	LCD_ACT_DRAW_SLIDER_DOWN = 4ul
-	
+
 } lcd_draw_actionTypeDef ;
 
 
 /**
 	Struktura do rysowania reakcji na akcje uzytkownika
-*/
+ */
 typedef struct lcd_react {
 	TS_mouseInputTypeDef curr_action ;
 	TS_mouseInputTypeDef prev_action ;
-	
+
 	int16_t X ;
-  int16_t Y ;
-	
+	int16_t Y ;
+
 	uint8_t penNotify ;
-	
+
 } lcd_reactTypeDef ;
 
 
